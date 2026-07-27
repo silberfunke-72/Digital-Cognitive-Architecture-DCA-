@@ -120,3 +120,9 @@ This repository is intended for scientific documentation and research discussion
 It should not be interpreted as a finished scientific theory, a commercial product, or a peer-reviewed publication.
 
 The concepts presented here are part of ongoing research and may evolve as the project progresses.
+
+---
+
+© 2024–2026 Carsten Hammerich — All rights reserved.
+
+---
