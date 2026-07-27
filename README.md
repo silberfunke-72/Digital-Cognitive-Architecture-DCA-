@@ -16,13 +16,16 @@ The project explores this question through architectural design, mathematical fo
 
 ---
 
+
 ## Goal
 
-The goal of the Digital Cognitive Architecture (DCA) project is **not** to develop another conventional Large Language Model (LLM).
+The goal of the Digital Cognitive Architecture (DCA) project is not to develop another conventional Large Language Model (LLM).
 
 Instead, DCA explores the theoretical foundations of a fundamentally new type of AI architecture designed to support persistent cognition, continuous self-development, and long-term human–AI partnership.
 
 Rather than extending existing models with external behavioral mechanisms, DCA investigates how these capabilities could emerge as intrinsic properties of the architecture itself.
+
+Unlike conventional LLMs, whose model parameters are typically fixed after training, one long-term research objective of DCA is to investigate architectures in which internal representations and model parameters may continue to evolve during operation under carefully designed architectural principles.
 
 The long-term vision is to explore what kind of cognitive architecture would be required for AI systems to move beyond the traditional LLM paradigm and become reliable cognitive partners rather than only powerful tools.
 
