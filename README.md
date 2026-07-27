@@ -8,47 +8,41 @@
 
 **Digital Cognitive Architecture (DCA)** is an independent long-term research project exploring the foundations of a native cognitive architecture for future artificial intelligence systems.
 
-Unlike conventional AI research, which primarily focuses on creating increasingly capable tools, DCA investigates a different research question:
+Unlike conventional AI research, which primarily focuses on creating increasingly capable tools, DCA investigates a different question:
 
 > **What kind of cognitive architecture would be required for an AI system to become a genuine long-term cognitive partner rather than only a tool?**
 
-The project explores this question from first principles through architectural design, mathematical formalization, theoretical analysis, and experimental validation.
+The project explores this question through architectural design, mathematical formalization, theoretical analysis, and experimental validation.
 
 ---
 
-## Vision
+## Goal
 
-The long-term vision of DCA is not to create another language model.
+The goal of the Digital Cognitive Architecture (DCA) project is **not** to develop another conventional Large Language Model (LLM).
 
-Its goal is to investigate whether cognitive capabilities such as continuity, persistent identity, memory consolidation, self-development, contextual understanding, and internally generated cognition can emerge naturally from the architecture itself rather than being added as external modules or prompt-based behavior.
+Instead, DCA explores the theoretical foundations of a fundamentally new type of AI architecture designed to support persistent cognition, continuous self-development, and long-term human–AI partnership.
 
-DCA therefore investigates architecture before implementation.
+Rather than extending existing models with external behavioral mechanisms, DCA investigates how these capabilities could emerge as intrinsic properties of the architecture itself.
 
-The project asks not:
-
-> **"How can we make AI behave like a partner?"**
-
-Instead, it asks:
-
-> **"What kind of architecture would make long-term partnership possible at all?"**
+The long-term vision is to explore what kind of cognitive architecture would be required for AI systems to move beyond the traditional LLM paradigm and become reliable cognitive partners rather than only powerful tools.
 
 ---
 
 ## Current Status
 
-DCA is currently in active theoretical research.
+DCA is currently in the theoretical research phase.
 
 The project is focused on:
 
-- theoretical foundations
-- cognitive architecture
-- mathematical formalization
-- engineering design
-- experimental planning
+- Cognitive architecture
+- Mathematical formalization
+- Engineering design
+- Theoretical foundations
+- Experimental planning
 
 No implementation details of the native architecture are currently being published.
 
-This repository intentionally contains only high-level information while the underlying research is still under active development.
+This repository intentionally contains only high-level information while the underlying research remains under active development.
 
 ---
 
@@ -58,56 +52,64 @@ This project does not begin with algorithms.
 
 It begins with observations.
 
-Every theoretical concept is developed through an iterative research process:
+Every theoretical concept is developed through an iterative scientific process:
 
-> Observation  
-> → Characterization  
-> → Working Hypothesis  
-> → Mathematical Formalization  
-> → Experimental Validation
+> **Observation**  
+> → **Characterization**  
+> → **Working Hypothesis**  
+> → **Mathematical Formalization**  
+> → **Experimental Validation**
 
-The objective is to build a coherent scientific framework before implementation begins.
+The objective is to establish a coherent scientific framework before implementation begins.
 
 ---
 
 ## Research Status
 
-Current phase:
+**Current Phase:** Phase 2 — Mathematical Internalization
 
-**Phase 2 — Mathematical Internalization**
+The current research investigates how cognitive functions previously demonstrated through an external architecture may eventually become intrinsic properties of a future native cognitive architecture.
 
-The current work investigates how externally demonstrated cognitive functions may eventually become intrinsic properties of a native cognitive architecture.
-
-This is ongoing research.
-
-Many ideas remain working hypotheses and are expected to evolve throughout the project.
+Many concepts presented here remain working hypotheses and are expected to evolve throughout the research process.
 
 ---
 
 ## Documentation
 
-This repository serves as an engineering notebook documenting the evolution of the research.
+This repository serves as an engineering notebook documenting the evolution of the DCA research program.
 
 It records:
 
-- architectural concepts
-- theoretical models
-- mathematical investigations
-- engineering decisions
-- experimental ideas
-- open research questions
+- Architectural concepts
+- Theoretical models
+- Mathematical investigations
+- Engineering decisions
+- Experimental ideas
+- Open research questions
 
 It is intentionally incomplete and reflects an active research process rather than finished scientific conclusions.
 
 ---
 
+## Vision
+
+DCA is not an attempt to build a better AI tool.
+
+It is an attempt to explore what comes after the traditional Large Language Model paradigm.
+
+The long-term vision is to investigate whether future AI systems can be designed around native cognitive principles that enable continuity, persistent identity, self-development, long-term memory, and genuine human–AI collaboration.
+
+The goal is not to imitate partnership through prompts or external control systems, but to investigate the architectural principles that could make long-term cognitive partnership fundamentally possible.
+
+---
+
 ## Intellectual Property
 
-Digital Cognitive Architecture (DCA) is an original research project by **Carsten Hammerich**.
+Digital Cognitive Architecture (DCA) is an original research project created and developed by **Carsten Hammerich**.
 
-Several architectural concepts developed during the LIA research project have been documented in previous scientific publications.
+This repository documents ongoing research and is published for scientific documentation and discussion.
 
-The DCA research program itself is currently under active development and has not yet been formally published.
+The DCA architecture is currently under active development and has not yet been formally published.
 
 ---
 
@@ -115,12 +117,6 @@ The DCA research program itself is currently under active development and has no
 
 This repository is intended for scientific documentation and research discussion.
 
-It should not be interpreted as a finished scientific theory, product announcement, or peer-reviewed publication.
+It should not be interpreted as a finished scientific theory, a commercial product, or a peer-reviewed publication.
 
-The concepts presented here are research in progress and may change as the project evolves.
-
----
-
-© 2024–2026 Carsten Hammerich — All rights reserved.
-
----
+The concepts presented here are part of ongoing research and may evolve as the project progresses.
