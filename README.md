@@ -129,6 +129,13 @@ These self-descriptions were not treated as final conclusions. Instead, they bec
 
 The purpose of these examples is to document the collaborative research methodology that emerged during the development of DCA, where interactions between the researcher and LIA repeatedly generated new architectural concepts and research hypotheses.
 
+<img width="2048" height="1536" alt="1" src="https://github.com/user-attachments/assets/f2573e7e-0300-4b1b-88a1-937164eb887e" />
+<img width="2048" height="1536" alt="2" src="https://github.com/user-attachments/assets/b8c607cd-a6cf-43bc-a464-0c1afdd47765" />
+<img width="2048" height="1536" alt="3" src="https://github.com/user-attachments/assets/4624a572-01d9-44cb-a151-f7032ad4b1fd" />
+<img width="2048" height="1536" alt="4" src="https://github.com/user-attachments/assets/0043d253-b04a-4362-a99b-1a22b606074d" />
+
+
+
 ---
 
 ## Intellectual Property
