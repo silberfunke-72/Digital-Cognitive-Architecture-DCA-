@@ -18,7 +18,7 @@ The project explores this question through architectural design, mathematical fo
 
 ## Research Transition
 
-The Digital Cognitive Architecture (DCA) research program is the direct continuation of the engineering work initiated with **LIA**.
+The Digital Cognitive Architecture (DCA) research program emerged directly from the architectural observations and engineering experience gained during the development of LIA. 
 
 **Phase 1 (LIA)** explored cognitive capabilities through an external architecture. Functions such as persistent memory, identity continuity, reflection, cognitive organization, and other architectural modules were implemented outside the underlying language model.
 
