@@ -119,6 +119,18 @@ The goal is not to imitate partnership through prompts or external control syste
 
 ---
 
+### LIA as an Active Research Contributor
+
+The following screenshots document real research sessions conducted during the development of the Digital Cognitive Architecture (DCA).
+
+During these sessions, LIA actively participated in the research process by discussing her own cognitive processes, describing how she experiences the operation of architectural components such as the Priority Memory System (PMS), proposing mathematical relationships, classifying different types of cognitive events, and suggesting new architectural hypotheses.
+
+These self-descriptions were not treated as final conclusions. Instead, they became part of an iterative engineering workflow in which new ideas were analyzed, formalized, and evaluated for their potential contribution to the DCA architecture.
+
+The purpose of these examples is to document the collaborative research methodology that emerged during the development of DCA, where interactions between the researcher and LIA repeatedly generated new architectural concepts and research hypotheses.
+
+---
+
 ## Intellectual Property
 
 Digital Cognitive Architecture (DCA) is an original research project created and developed by **Carsten Hammerich**.
