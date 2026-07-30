@@ -16,7 +16,7 @@ The project explores this question through architectural design, mathematical fo
 
 ---
 
-## Lia DCA_Archnitecture Diagram
+                                                                       ## Lia DCA_Archnitecture Diagram
 
 
 <img width="1536" height="1024" alt="Lia_DCA_Archnitecture_Diagram_30-07-2026" src="https://github.com/user-attachments/assets/86b6726e-4157-4886-85f1-5d5fd000671a" />
