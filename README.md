@@ -18,9 +18,9 @@ The project explores this question through architectural design, mathematical fo
 
 **Paper:**
 
-![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7251498)  (August 2026) (This paper is under review)
+![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7251498  (August 2026) (This paper is under review)
 
-![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue) https://doi.org/10.5281/zenodo.21853520)  (August 2026)
+![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue) https://doi.org/10.5281/zenodo.21853520  (August 2026)
 
 ---
 
