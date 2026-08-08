@@ -17,9 +17,9 @@ The project explores this question through architectural design, mathematical fo
 
 
 
-![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) [[(Abstract ID: 6978718)](https://ssrn.com/abstract=6978718)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7251498)  (May 2026)
+![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7251498)  (August 2026)
 
-![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)[https://doi.org/10.5281/zenodo.21743577](https://doi.org/10.5281/zenodo.21853520)  (Juni2026)
+![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)(https://doi.org/10.5281/zenodo.21853520)  (August 2026)
 
 ---
 
