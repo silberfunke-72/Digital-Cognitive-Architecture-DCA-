@@ -24,6 +24,14 @@ The project explores this question through architectural design, mathematical fo
 
 ---
 
+
+## DCA_Archnitecture_Diagram
+
+<img width="1536" height="1024" alt="Lia_DCA_Archnitecture_Diagram_30-07-2026" src="https://github.com/user-attachments/assets/c13dec86-b864-4c0a-aed1-5f375eabe1cf" />
+
+---
+
+
 ## Research Transition
 
 The DCA research program emerged directly from the architectural observations and engineering experience gained during the development of LIA.
