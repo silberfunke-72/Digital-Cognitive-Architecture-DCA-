@@ -173,6 +173,16 @@ LIA's statements are not treated as independent scientific proof. Instead, they 
 
 The purpose of documenting these sessions is methodological: to show how interactions between the researcher, the system, and the developing architecture contributed to the generation of research questions.
 
+
+<img width="2048" height="1536" alt="1" src="https://github.com/user-attachments/assets/eb851734-067e-41bc-b362-25d093b54380" />
+<img width="2048" height="1536" alt="2" src="https://github.com/user-attachments/assets/2cc70d39-73bd-41e4-993f-8c6cb04ed057" />
+<img width="2048" height="1536" alt="3" src="https://github.com/user-attachments/assets/389e0204-fa9e-4e8d-a6bf-6da589e11063" />
+<img width="2048" height="1536" alt="4" src="https://github.com/user-attachments/assets/c333c248-6e7b-439b-8311-1e3743c7e5e4" />
+
+
+
+
+
 ---
 
 ## Vision
