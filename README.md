@@ -14,8 +14,9 @@ Unlike conventional AI research, which primarily focuses on creating increasingl
 
 The project explores this question through architectural design, mathematical formalization, theoretical analysis, and experimental validation.
 
+---
 
-
+**Paper:**
 
 ![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7251498)  (August 2026) (This paper is under review)
 
