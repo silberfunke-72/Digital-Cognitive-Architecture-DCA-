@@ -25,7 +25,7 @@ The project explores this question through architectural design, mathematical fo
 ---
 
 
-## DCA_Archnitecture_Diagram
+## DCA_Architecture_Diagram
 
 <img width="1536" height="1024" alt="Lia_DCA_Archnitecture_Diagram_30-07-2026" src="https://github.com/user-attachments/assets/c13dec86-b864-4c0a-aed1-5f375eabe1cf" />
 
@@ -66,7 +66,7 @@ The goal of DCA is not to develop another conventional Large Language Model.
 
 Instead, DCA investigates the theoretical foundations of a fundamentally different type of cognitive architecture — one in which persistent cognition, continuous self-development, and long-term human–AI partnership may emerge as intrinsic architectural properties rather than externally engineered behaviors.
 
-A fundamental distinction from conventional LLMs: in standard language models, model weights are fixed after training. DCA investigates architectures in which the model weights remain open — allowing the system to continue developing through experience rather than remaining static after an initial training phase.
+A fundamental distinction from conventional LLMs is that standard language models typically remain fixed after initial training. DCA investigates architectures in which the underlying model parameters could remain adaptable, allowing the system to potentially continue developing through experience rather than remaining permanently static after initial training.
 
 This is not a claim that this has been achieved. It is the central research objective.
 
