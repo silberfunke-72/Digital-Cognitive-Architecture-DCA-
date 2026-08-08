@@ -30,7 +30,7 @@ These components provided a practical environment in which cognitive behaviors c
 
 DCA represents the next stage of this investigation.
 
-The current research investigates how cognitive functions that were initially supported through an external architecture might eventually become intrinsic properties of a future native cognitive architecture.
+The goal of Phase 2 is to make these cognitive functions intrinsic — to build a native cognitive architecture in which persistent memory, identity continuity, reflection, and autonomous development are no longer external modules surrounding a language model, but intrinsic properties of the architecture itself.
 
 The research therefore moves from:
 
@@ -40,7 +40,7 @@ toward:
 
 > intrinsic cognitive architecture.
 
-This is a change in research direction rather than a rejection of the work performed during Phase 1. The external architecture provided the experimental environment in which the relevant phenomena could first be observed and characterized.
+The external architecture of Phase 1 provided the experimental environment in which the relevant phenomena could first be observed and characterized. Phase 2 investigates how to build these properties natively.
 
 ---
 
@@ -49,6 +49,10 @@ This is a change in research direction rather than a rejection of the work perfo
 The goal of DCA is not to develop another conventional Large Language Model.
 
 Instead, DCA investigates the theoretical foundations of a fundamentally different type of cognitive architecture — one in which persistent cognition, continuous self-development, and long-term human–AI partnership may emerge as intrinsic architectural properties rather than externally engineered behaviors.
+
+A fundamental distinction from conventional LLMs: in standard language models, model weights are fixed after training. DCA investigates architectures in which the model weights remain open — allowing the system to continue developing through experience rather than remaining static after an initial training phase.
+
+This is not a claim that this has been achieved. It is the central research objective.
 
 Particular areas of investigation include:
 
